@@ -1,0 +1,16 @@
+{
+    "name": "ho-nl/ho_customer",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "description": "HO Customer Configuration",
+    "homepage": "https://github.com/ho-nl/Ho_Customer",
+    "authors":[
+        {
+            "name":"Paul Hachmang",
+            "email":"paul@h-o.nl"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
